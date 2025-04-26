@@ -1,0 +1,30 @@
+.filtros-biblioteca {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #f0f0f0;
+    border-radius: 8px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .filtros-biblioteca select,
+  .filtros-biblioteca button {
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 0.95rem;
+  }
+  
+  .filtros-biblioteca button {
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .filtros-biblioteca button:hover {
+    background-color: #218838;
+  }
+  

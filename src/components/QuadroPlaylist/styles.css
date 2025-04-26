@@ -1,0 +1,23 @@
+.quadro-playlist {
+    padding: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f4f4f4;
+  }
+  
+  .quadro-playlist h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .quadro-playlist ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .quadro-playlist li {
+    margin-bottom: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
